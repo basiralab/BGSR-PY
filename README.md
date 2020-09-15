@@ -1,6 +1,6 @@
 # BGSR (Brain Graph Super-Resolution) in Python3
 
-BGSR (Brain Graph Super-Resolution) for super-resoloving low-resolution graphs code, recoded by Busra Asan. Please contact busraasan2@gmail.com for further inquiries. Thanks.
+BGSR (Brain Graph Super-Resolution) for super-resolving low-resolution graphs code, recoded by Busra Asan. Please contact busraasan2@gmail.com for further inquiries. Thanks.
 
 ```
 You can download the Matlab version of BGSR at: https://github.com/basiralab/BGSR
